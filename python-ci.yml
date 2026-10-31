@@ -1,0 +1,4 @@
+name: Python CI Pipeline
+- name: Run Unit Tests
+  run: |
+    pytest
